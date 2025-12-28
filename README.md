@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Harshit Singh
 
 🎓 B.Tech @ NIT Calicut    
