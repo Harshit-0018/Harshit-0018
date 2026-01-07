@@ -66,6 +66,5 @@
 ---
 
 ⭐ Always learning. Always building.
-Draft (as a person) :)
 
 
