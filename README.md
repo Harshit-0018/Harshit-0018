@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - Like something techy and unique , can be DS Algo
 - Strong interest in **problem-solving and Data Structures & Algorithms**
-- Actively learning **Java → OOPs → MongoDB → Backend & GenAI systems**
+- Actively learning **Java → OOPs → MongoDB → Microservices -> Backend & GenAI systems**
 - Passionate about building **solid, real-world projects** in **Generative AI**
 - Experienced in **marketing, strategy, and team management**, with a strong execution mindset**
 - Actively building projects that combine **AI + Engineering + Impact**
