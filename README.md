@@ -21,16 +21,7 @@
 **AI/ML:** MongoDB , Gen AI, NLP, RAG, LangChain, FAISS  
 **Tools:** Git, GitHub, Streamlit, Flask  
 **Engineering:** AutoCAD, SolidWorks , ANYSYS , MATLAB
-
----
-
-## 📌 Featured Projects
-### 🔹 AI PDF Chatbot (RAG)
-- Retrieval Augmented Generation using FAISS & Sentence Embeddings
-- Semantic search + LLM-based answer generation  
-- Tech: Java,OOPS,Python, LangChain, FAISS, Streamlit  
-
-
+ 
 ---
 
 ## 📈 What I'm Currently Doing
