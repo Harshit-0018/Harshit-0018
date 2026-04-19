@@ -127,4 +127,4 @@ AutoCAD, SolidWorks, ANSYS, MATLAB
 
 ---
 
-Always learning. Always building.  
+Always learning.
