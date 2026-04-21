@@ -125,6 +125,3 @@ AutoCAD, SolidWorks, ANSYS, MATLAB
 - LinkedIn: https://www.linkedin.com/in/harshitsinghnitc/  
 - Email: harshitsingh8157@gmail.com  
 
----
-
-Always learning.
