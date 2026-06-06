@@ -1,19 +1,30 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Singh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20NIT%20Calicut&descAlignY=60&descSize=20" />
+<!-- Animated Top Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Singh&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20NIT%20Calicut&descAlignY=60&descSize=22" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+GenAI+Systems+from+Scratch;🧠+LLMs+%7C+RAG+%7C+LangChain+%7C+Vector+DBs;🔧+Backend+Engineer+in+Progress;🚀+Turning+AI+Ideas+into+Real+Products;📍+NIT+Calicut+%7C+B.Tech+CSE" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://github.com/Harshit-0018">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=🤖+Building+GenAI+%26+Agentic+AI+Systems;🧠+LLMs+%7C+RAG+%7C+LangChain+%7C+Vector+DBs;🔧+Backend+Engineer+%7C+DSA+Practitioner;🚀+Turning+AI+Ideas+into+Real+Products;🎓+B.Tech+CSE+%40+NIT+Calicut" alt="Typing SVG" />
+</a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitsinghnitc/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsingh8157@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit-0018)
-[![Profile Views](https://komarev.com/ghpvc/?username=Harshit-0018&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Harshit-0018)
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Harshit-0018&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- Social Badges — WORKING LINKS -->
+<a href="https://www.linkedin.com/in/harshitsinghnitc/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harshitsingh8157@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Harshit-0018">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -27,9 +38,9 @@ class HarshitSingh:
         self.name       = "Harshit Singh"
         self.college    = "B.Tech CSE @ NIT Calicut"
         self.location   = "Kerala, India 🇮🇳"
-        self.focus      = ["GenAI Systems", "LLM Apps", "Backend Engineering", "DSA"]
-        self.learning   = ["Java → OOPs → MongoDB → Microservices → Backend → GenAI"]
-        self.led        = "Tathva — Annual Tech Fest of NIT Calicut (Student Coordinator)"
+        self.focus      = ["GenAI Systems", "Agentic AI", "LLM Apps", "Backend Engineering"]
+        self.learning   = "Java → OOPs → MongoDB → Microservices → Backend → GenAI"
+        self.led        = "Tathva — Annual Tech Fest @ NIT Calicut (Student Coordinator)"
         self.strengths  = ["Marketing Strategy", "Team Leadership", "Execution Under Pressure"]
         self.motto      = "Building systems that combine AI, engineering & real-world utility 🚀"
 
@@ -37,11 +48,96 @@ class HarshitSingh:
         print("Hi! Let's build something impactful together.")
 ```
 
-- 🔭 Currently building: **GenAI applications, LLM-based architectures & Agentic systems**
+- 🔭 Currently building: **GenAI applications, LLM-based & Agentic AI architectures**
 - 📚 Learning path: `C++` → `Java` → `OOPs` → `MongoDB` → `Microservices` → `Backend` → `GenAI`
 - 🏆 Led **Tathva** (NIT Calicut's largest annual fest) as Student Coordinator
 - 💡 Passionate about combining **AI + Engineering + Real-World Utility**
 - 📊 Strong foundation in **DSA, System Design & Problem Solving**
+- 🤝 Background in **Marketing Strategy, Team Management & Execution**
+
+---
+
+## 💼 Why Hire Me? *(For Recruiters)*
+
+<div align="center">
+
+| 🚀 What I Build | 🎯 How I Think | 🔥 What Sets Me Apart |
+|:---|:---|:---|
+| End-to-end GenAI & LLM applications | First-principles problem solver | Built real AI products, not just tutorials |
+| Agentic AI systems with web automation | Systems-level thinking from DSA roots | Led 1000+ person fest — execution at scale |
+| RAG pipelines + Vector DB integrations | Product-minded engineer | Marketing + tech combo = rare skill |
+| Backend APIs & scalable data systems | Clean, modular, production-ready code | Active learner: Java → Microservices → GenAI |
+
+</div>
+
+> 💡 **I don't just learn AI — I ship it.** From news intelligence platforms to medical AI systems to autonomous web agents, I build full-stack AI products that solve real problems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 NEXUS — Agentic Web System
+> **Autonomous AI agent that navigates, extracts & acts on the web end-to-end**
+
+- 🤖 Built a full **agentic pipeline** where an LLM autonomously browses, reasons, and acts on web content
+- 🔗 Integrated **LangChain Agents + Tool Calling** for structured multi-step web task execution
+- 🧠 Implements **ReAct (Reason + Act)** loop for intelligent decision-making across web sessions
+- 📦 Modular architecture — easily extensible with new tools, APIs, and memory backends
+- 🛡️ Designed for real-world robustness: handles dynamic pages, errors, and retry logic
+
+**Stack:** `Python` `LangChain` `Agents` `Web Automation` `LLM Tool Use` `REST APIs`
+
+[![View Repo](https://img.shields.io/badge/🌐_NEXUS--Agentic--Web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit-0018/NEXUS-Agentic-Web)
+
+---
+
+### 🗞️ NewsLens — AI News Intelligence Platform
+> **Real-time AI news aggregator with smart summarization & topic analysis**
+
+- 📰 Pulls live news from multiple sources and processes with **LLM-based summarization**
+- 🔍 Uses **NLP pipelines** to categorize, tag, and extract key entities from articles
+- 📊 Delivers **bias detection & sentiment analysis** per news item for informed reading
+- ⚡ Fast, lightweight backend built in **Python + Flask** with clean REST API design
+- 🧩 Designed for extensibility — multi-source ingestion, topic clustering, personalization-ready
+
+**Stack:** `Python` `LangChain` `NLP` `Flask` `News APIs` `Summarization` `Sentiment Analysis`
+
+[![View Repo](https://img.shields.io/badge/🗞️_NewsLens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit-0018/NewsLens)
+
+---
+
+### 🏥 MedPulse AI — Medical Intelligence Assistant
+> **AI-powered medical assistant for symptom analysis & health insights**
+
+- 🩺 Built a **GenAI-powered health assistant** that interprets symptoms and provides structured insights
+- 📚 Integrated **RAG architecture** to ground responses in verified medical knowledge bases
+- 🔒 Implemented **safe-response guardrails** — ensures outputs are informational, not prescriptive
+- 💬 Conversational interface built with **LLM + memory** for multi-turn health consultations
+- 🗄️ Vector DB-backed knowledge retrieval for fast, accurate, context-aware responses
+
+**Stack:** `Python` `RAG` `LangChain` `FAISS` `Vector DB` `Flask` `LLM` `Medical NLP`
+
+[![View Repo](https://img.shields.io/badge/🏥_MedPulseAi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit-0018/MedPulseAi)
+
+---
+
+### Other Projects
+
+<details>
+<summary>📂 Click to expand more projects</summary>
+
+<br/>
+
+**🤖 AI Simple Chatbot** — Conversational LLM chatbot with prompt engineering & modular Python backend, extensible for RAG and multi-doc querying
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018)
+
+**📊 Smart AI Dashboard** — Real-time AI-insight dashboard built with Streamlit; API-integrated, scalable, and focused on usability
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018)
+
+**🛒 Walmart Sales Analysis** — End-to-end retail EDA with Pandas & NumPy; surfaces business trends and decision-support visualizations
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018)
+
+</details>
 
 ---
 
@@ -62,7 +158,7 @@ class HarshitSingh:
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-`Generative AI` · `RAG` · `NLP` · `Prompt Engineering` · `Vector Databases` · `LLM Application Development`
+`Generative AI` · `RAG` · `NLP` · `Prompt Engineering` · `Vector Databases` · `Agentic AI` · `LLM Apps`
 
 ### 🔧 Backend & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -87,65 +183,31 @@ class HarshitSingh:
 
 ---
 
-## 🚀 Featured Projects
+## 📈 GitHub Stats
 
 <div align="center">
 
-| 🗞️ NewsLens | 🏥 MedPulse AI | 🌐 Nexus Agentic Web |
-|:---:|:---:|:---:|
-| AI-powered news intelligence platform that summarizes, categorizes & analyzes news in real-time using LLMs | Intelligent medical AI system for health insights, symptom analysis & patient-side assistance powered by GenAI | Autonomous agentic web-browsing system using LLM agents to navigate, extract & act on the web end-to-end |
-| `LangChain` `NLP` `Summarization` `Python` | `MedAI` `RAG` `LLM` `Flask` | `Agents` `LangChain` `Web Automation` `Python` |
-| [![Repo](https://img.shields.io/badge/GitHub-NewsLens-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/NewsLens) | [![Repo](https://img.shields.io/badge/GitHub-MedPulseAi-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/MedPulseAi) | [![Repo](https://img.shields.io/badge/GitHub-Nexus_Agentic_Web-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/Nexus-Agentic-Web) |
+<img src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Harshit-0018&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-0018&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="96%"/>
 
 </div>
 
 ---
 
-### 🤖 AI Simple Chatbot
-> Conversational AI powered by LLM APIs with smart prompt engineering
-- Built modular Python backend for clean, structured LLM responses
-- Designed for extensibility: RAG, memory & multi-doc querying ready
-- Lightweight architecture optimized for low-latency interaction
-
-[![Repo](https://img.shields.io/badge/View_on_GitHub-AI--ChatBot-181717?style=for-the-badge&logo=github)](https://github.com/Harshit-0018/AI-ChatBot)
-
----
-
-### 📊 Smart AI Dashboard
-> Real-time AI-driven insight dashboard with interactive visualizations
-- Built with **Streamlit + Python** for fast, responsive UI
-- Backend API integration for live data handling and analytics
-- Focus on usability, scalability & seamless data storytelling
-
-[![Repo](https://img.shields.io/badge/View_on_GitHub-AI--Smart--Dashboard-181717?style=for-the-badge&logo=github)](https://github.com/Harshit-0018/AI-Smart-Dashboard)
-
----
-
-### 🛒 Walmart Sales Analysis
-> End-to-end retail EDA with business-grade visual insights
-- Used **Pandas & NumPy** for full data processing pipeline
-- Applied EDA to surface actionable trends and forecasts
-- Visualizations built for executive-level decision making
-
-[![Repo](https://img.shields.io/badge/View_on_GitHub-Walmart--Analysis-181717?style=for-the-badge&logo=github)](https://github.com/Harshit-0018/Walmart-Sales-Analysis)
-
----
-
-## 📈 GitHub Stats
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-0018&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-0018&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="95%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit-0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -156,21 +218,11 @@ class HarshitSingh:
 ```text
 ⚡ Data Structures & Algorithms        ████████████░░░   Active & Consistent
 🤖 Generative AI Systems               ██████████░░░░░   Building Fast
-🔗 LLM + RAG Architectures             █████████░░░░░░   Deep Diving
-🌐 Agentic AI Systems                  ████████░░░░░░░   Exploring Frontiers
+🌐 Agentic AI & Web Agents             █████████░░░░░░   Shipping Projects
+🔗 LLM + RAG Architectures             ████████░░░░░░░   Deep Diving
 🔧 Backend + Microservices             ██████░░░░░░░░░   Learning Phase
 🗄️  Database Design (MongoDB/SQL)       ███████░░░░░░░░   Advancing
 ```
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit-0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -179,31 +231,38 @@ class HarshitSingh:
 <div align="center">
 
 | 🎯 Leadership | 📣 Marketing | ⚡ Execution |
-|---|---|---|
+|:---|:---|:---|
 | Led **Tathva** — NIT Calicut's Annual Fest | Marketing Strategy & Brand Positioning | High-pressure, deadline-driven delivery |
-| Team Coordination & Mentoring | Event Planning & Management | Result-oriented, strong follow-through |
+| Team Coordination across 100s of members | Event Planning & Sponsorship Management | Result-oriented, strong follow-through |
 | Cross-functional Communication | Content & Outreach Campaigns | Built for scale, executed with precision |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitsinghnitc/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsingh8157@gmail.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit-0018)
+<a href="https://www.linkedin.com/in/harshitsinghnitc/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:harshitsingh8157@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Harshit-0018">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- Bottom Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
 
 </div>
