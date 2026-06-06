@@ -64,7 +64,7 @@ class HarshitSingh:
 | 🚀 What I Build | 🎯 How I Think | 🔥 What Sets Me Apart |
 |:---|:---|:---|
 | End-to-end GenAI & LLM applications | First-principles problem solver | Built real AI products, not just tutorials |
-| Agentic AI systems with web automation | Systems-level thinking from DSA roots | Led 1000+ person fest — execution at scale |
+| Agentic AI systems with web automation | Systems-level thinking from DSA roots | Led 100000+ person fest — execution at scale |
 | RAG pipelines + Vector DB integrations | Product-minded engineer | Marketing + tech combo = rare skill |
 | Backend APIs & scalable data systems | Clean, modular, production-ready code | Active learner: Java → Microservices → GenAI |
 
