@@ -119,15 +119,26 @@
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
 
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harshit-0018&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 ---
 
