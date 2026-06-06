@@ -245,9 +245,6 @@ Contributed to FOSSASIA's **eventyay** platform as a Backend Developer under GSS
 <div align="center">
 
 <!-- Stats Row 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" height="175"/>
 
 <br/><br/>
 
