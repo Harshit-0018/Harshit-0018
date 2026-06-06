@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Harshit-0018">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=🤖+Building+GenAI+%26+Agentic+AI+Systems;🧠+LLMs+%7C+RAG+%7C+LangChain+%7C+Vector+DBs;🔧+Backend+Engineer+%7C+DSA+Practitioner;🚀+Turning+AI+Ideas+into+Real+Products;🎓+B.Tech+CSE+%40+NIT+Calicut" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+GenAI+%26+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+LangChain+%7C+Vector+DBs;Open+Source+Contributor+%7C+GSSoC%2726+%7C+FOSSASIA;LeetCode+Guardian+%7C+Top+0.63%25+Globally;B.Tech+CSE+%40+NIT+Calicut" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<!-- Social Badges — WORKING LINKS -->
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/harshitsinghnitc/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -24,6 +24,9 @@
 </a>
 <a href="https://github.com/Harshit-0018">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/og_07/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
@@ -35,25 +38,29 @@
 ```python
 class HarshitSingh:
     def __init__(self):
-        self.name       = "Harshit Singh"
-        self.college    = "B.Tech @ NIT Calicut"
-        self.location   = "Varanasi->Kerala->Varanasi, India 🇮🇳"
-        self.focus      = ["GenAI Systems", "Agentic AI", "LLM Apps", "Backend Engineering"]
-        self.learning   = "Java → OOPs → MongoDB → Microservices → Backend → GenAI"
-        self.led        = "Tathva — Annual Tech Fest @ NIT Calicut (Student Coordinator)"
-        self.strengths  = ["Marketing Strategy", "Team Leadership", "Execution Under Pressure"]
-        self.motto      = "Building systems that combine AI, engineering & real-world utility 🚀"
+        self.name         = "Harshit Singh"
+        self.college      = "B.Tech CSE @ NIT Calicut (Final Year, Batch 2027)"
+        self.location     = "Varanasi, Uttar Pradesh 🇮🇳"
+        self.focus        = ["GenAI Systems", "Agentic AI", "LLM Apps", "Backend Engineering"]
+        self.learning     = "C++ → Java → OOPs → MongoDB → Microservices → Backend → GenAI"
+        self.open_source  = ["GSSoC'26 Contributor", "FOSSASIA Backend Developer"]
+        self.competitive  = "LeetCode Guardian | Rating 2270 | Top 0.63% Globally"
+        self.led          = "Tathva & Ragam — Annual Tech Fests @ NIT Calicut"
+        self.strengths    = ["Marketing Strategy", "Team Leadership", "Execution Under Pressure"]
+        self.motto        = "Building systems that combine AI, engineering & real-world utility 🚀"
 
     def say_hi(self):
         print("Hi! Let's build something impactful together.")
 ```
 
 - 🔭 Currently building: **GenAI applications, LLM-based & Agentic AI architectures**
-- 📚 Learning path: `C++` → `Java` → `OOPs` → `MongoDB` → `Microservices` → `Backend` → `GenAI`
-- 🏆 Led **Tathva** (NIT Calicut's largest annual fest) as Student Coordinator
+- 🌍 **Open Source Contributor** — GSSoC'26 Mentee + FOSSASIA Backend Developer (eventyay platform, 1.6k+ ⭐)
+- 🏆 **LeetCode Guardian** — Rating **2270**, Top **0.63%** Globally (Guardian @Leetcode2270)
+- 🚀 Led **Tathva** (NIT Calicut's largest annual fest) as **Senior Tech Lead**; also **Tech Team @ Ragam**
 - 💡 Passionate about combining **AI + Engineering + Real-World Utility**
 - 📊 Strong foundation in **DSA, System Design & Problem Solving**
 - 🤝 Background in **Marketing Strategy, Team Management & Execution**
+- 💼 Past **Intern @ BHEL**
 
 ---
 
@@ -63,14 +70,48 @@ class HarshitSingh:
 
 | 🚀 What I Build | 🎯 How I Think | 🔥 What Sets Me Apart |
 |:---|:---|:---|
-| End-to-end GenAI & LLM applications | First-principles problem solver | Built real AI products, not just tutorials |
-| Agentic AI systems with web automation | Systems-level thinking from DSA roots | Led 100000+ person fest — execution at scale |
-| RAG pipelines + Vector DB integrations | Product-minded engineer | Marketing + tech combo = rare skill |
-| Backend APIs & scalable data systems | Clean, modular, production-ready code | Active learner: Java → Microservices → GenAI |
+| End-to-end GenAI & LLM applications | First-principles problem solver | LeetCode Guardian — Top 0.63% globally |
+| Agentic AI systems with web automation | Systems-level thinking from DSA roots | Real OSS PRs merged in production codebases |
+| RAG pipelines + Vector DB integrations | Product-minded engineer | FOSSASIA + GSSoC'26 — international contributor |
+| Backend APIs & scalable data systems | Clean, modular, production-ready code | Marketing + tech combo = rare skill |
+| Django/Python + Vue.js full stack | Test-driven, reviewer-approved code | Led 1000+ person fest — execution at scale |
 
 </div>
 
-> 💡 **I don't just learn AI — I ship it.** From news intelligence platforms to medical AI systems to autonomous web agents, I build full-stack AI products that solve real problems.
+> 💡 **I don't just learn AI — I ship it.** From news intelligence platforms to medical AI systems to autonomous web agents to production open source codebases, I build and contribute to real products that solve real problems.
+
+---
+
+## 🌟 Open Source — Real Contributions, Real Impact
+
+### 🏛️ FOSSASIA — eventyay Platform *(Backend Developer, Mar 2026 – Present)*
+> **Production Django/Python event management platform · 1.6k+ GitHub Stars · Global GSoC org**
+
+Contributed to FOSSASIA's **eventyay** platform as a Backend Developer under GSSoC'26. All PRs went through automated review by Sourcery AI, GitHub Copilot & ChatGPT Codex, plus human maintainers.
+
+| PR | Description | Status |
+|:---|:---|:---|
+| [#3438](https://github.com/fossasia/eventyay/pull/3438) | Fixed product meta typeahead filtering for limited team members — prevented cross-event data leakage; approved by 3 maintainers | ✅ **Merged** |
+| [#3446](https://github.com/fossasia/eventyay/pull/3446) | Improved webhook reliability — added 30s configurable timeout (prevents Celery worker starvation), replaced `break` with `continue` to avoid silent notification drops, added explicit `success=False` in error paths | 🔄 Closed (superseded) |
+| [#3138](https://github.com/fossasia/eventyay/pull/3138) | Standardized login button UI text for i18n consistency across all languages | 🔄 Closed (superseded) |
+| [#3108](https://github.com/fossasia/eventyay/pull/3108) | First contribution — fixed login button text inconsistency (issue #3099) | 🔄 Closed (superseded) |
+
+**Raised 4 PRs** addressing backend reliability, access control bugs, and UI consistency. Worked with **Python, Django, Celery, pytest, PostgreSQL, Vue.js, Docker**.
+
+[![View FOSSASIA Fork](https://img.shields.io/badge/🌍_FOSSASIA--eventyay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit-0018/Gsoc-26-eventyay)
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+| Platform | Handle | Achievement |
+|:---|:---|:---|
+| 🏆 LeetCode | [@og_07](https://leetcode.com/og_07/) | **Guardian** · Rating **2270** · Top **0.63% Globally** |
+| 🐙 GitHub | [@Harshit-0018](https://github.com/Harshit-0018) | Pull Shark · Quickdraw · YOLO Achievements |
+
+</div>
 
 ---
 
@@ -129,13 +170,16 @@ class HarshitSingh:
 <br/>
 
 **🤖 AI Simple Chatbot** — Conversational LLM chatbot with prompt engineering & modular Python backend, extensible for RAG and multi-doc querying
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/AI-ChatBot)
 
 **📊 Smart AI Dashboard** — Real-time AI-insight dashboard built with Streamlit; API-integrated, scalable, and focused on usability
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/AI-Smart-Dashboard)
 
 **🛒 Walmart Sales Analysis** — End-to-end retail EDA with Pandas & NumPy; surfaces business trends and decision-support visualizations
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/Walmart-Sales-Analysis)
+
+**🅿️ LLD — Parking System** — Low-Level Design implementation in C++ demonstrating OOP, design patterns, and system design thinking
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harshit-0018/LLD)
 
 </details>
 
@@ -161,11 +205,24 @@ class HarshitSingh:
 `Generative AI` · `RAG` · `NLP` · `Prompt Engineering` · `Vector Databases` · `Agentic AI` · `LLM Apps`
 
 ### 🔧 Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### 🌐 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧪 Testing & DevOps
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -187,16 +244,19 @@ class HarshitSingh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<!-- Stats Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Harshit-0018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" height="175"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Harshit-0018&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF" height="175"/>
+<!-- Streak Stats — Using streakstats.com which is stable -->
+<img src="https://streak-stats.demolab.com?user=Harshit-0018&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF" height="175"/>
 
 <br/><br/>
 
+<!-- Activity Graph — Using githubcontributions.vercel.app as fallback -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-0018&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="96%"/>
 
 </div>
@@ -207,7 +267,25 @@ class HarshitSingh:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit-0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Harshit-0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=A,B,C,SECRET" />
+
+<br/><br/>
+
+<!-- Static achievement badges -->
+![Commits](https://img.shields.io/badge/Total%20Commits-233+-00D4FF?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-Active-FF6B35?style=for-the-badge&logo=fire&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-10%20Days-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-18-4EC820?style=for-the-badge&logo=github&logoColor=white)
+![PRs](https://img.shields.io/badge/OSS%20PRs%20Raised-4-00D4FF?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode%20Guardian-2270%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<br/><br/>
+
+<!-- GitHub Achievements Badges (official) -->
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull%20Shark-GitHub%20Achievement-0079D6?style=for-the-badge)](https://github.com/Harshit-0018?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-GitHub%20Achievement-FFD700?style=for-the-badge)](https://github.com/Harshit-0018?tab=achievements)
+[![YOLO](https://img.shields.io/badge/🎲_YOLO-GitHub%20Achievement-FF4500?style=for-the-badge)](https://github.com/Harshit-0018?tab=achievements)
 
 </div>
 
@@ -216,13 +294,30 @@ class HarshitSingh:
 ## 🎯 Current Focus
 
 ```text
-⚡ Data Structures & Algorithms        ████████████░░░   Active & Consistent
+⚡ Data Structures & Algorithms        ████████████░░░   Active & Consistent | Guardian @ LC
 🤖 Generative AI Systems               ██████████░░░░░   Building Fast
 🌐 Agentic AI & Web Agents             █████████░░░░░░   Shipping Projects
 🔗 LLM + RAG Architectures             ████████░░░░░░░   Deep Diving
+🌍 Open Source (FOSSASIA / GSSoC'26)   ███████░░░░░░░░   Active Contributor
 🔧 Backend + Microservices             ██████░░░░░░░░░   Learning Phase
-🗄️  Database Design (MongoDB/SQL)       ███████░░░░░░░░   Advancing
+🗄️  Database Design (MongoDB/PostgreSQL) ███████░░░░░░░░  Advancing
 ```
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+| 🏢 Role | 📍 Organization | 🗓️ Duration | 🔧 Highlights |
+|:---|:---|:---|:---|
+| **Open Source Contributor** | GirlScript Summer of Code (GSSoC'26) | May 2026 – Present | Mentee/Contributor in India's largest OSS program |
+| **Backend Developer** | FOSSASIA (Part-time, Remote) | Mar 2026 – Present | 4 PRs on eventyay (1.6k+ ⭐); Django, Python, pytest |
+| **Tech Team Member** | Ragam — NIT Calicut | Mar 2026 – May 2026 | Web Dev + AI for one of NIT Calicut's major fests |
+| **Senior Tech Lead** | Tathva — NIT Calicut | Previous | Led tech for NIT Calicut's largest annual tech fest |
+| **Intern** | BHEL | Previous | Industry exposure in engineering + tech domains |
+
+</div>
 
 ---
 
@@ -232,7 +327,7 @@ class HarshitSingh:
 
 | 🎯 Leadership | 📣 Marketing | ⚡ Execution |
 |:---|:---|:---|
-| Led **Tathva** — NIT Calicut's Annual Fest | Marketing Strategy & Brand Positioning | High-pressure, deadline-driven delivery |
+| Led **Tathva & Ragam** — NIT Calicut's Annual Fests | Marketing Strategy & Brand Positioning | High-pressure, deadline-driven delivery |
 | Team Coordination across 100s of members | Event Planning & Sponsorship Management | Result-oriented, strong follow-through |
 | Cross-functional Communication | Content & Outreach Campaigns | Built for scale, executed with precision |
 
@@ -255,10 +350,19 @@ class HarshitSingh:
 <a href="https://github.com/Harshit-0018">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://leetcode.com/og_07/">
+  <img src="https://img.shields.io/badge/LeetCode_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+> *"The best way to predict the future is to build it."* — Alan Kay
+
+<br/>
+
+![Wave](https://img.shields.io/badge/Open%20to%20Internships%20%26%20Collaborations-00D4FF?style=for-the-badge&logo=handshake&logoColor=white)
+![OSS](https://img.shields.io/badge/Open%20Source%20Contributor-GSSoC'26%20%7C%20FOSSASIA-4EC820?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 <br/><br/>
 
