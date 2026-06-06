@@ -36,8 +36,8 @@
 class HarshitSingh:
     def __init__(self):
         self.name       = "Harshit Singh"
-        self.college    = "B.Tech CSE @ NIT Calicut"
-        self.location   = "Kerala, India 🇮🇳"
+        self.college    = "B.Tech @ NIT Calicut"
+        self.location   = "Varanasi->Kerala->Varanasi, India 🇮🇳"
         self.focus      = ["GenAI Systems", "Agentic AI", "LLM Apps", "Backend Engineering"]
         self.learning   = "Java → OOPs → MongoDB → Microservices → Backend → GenAI"
         self.led        = "Tathva — Annual Tech Fest @ NIT Calicut (Student Coordinator)"
