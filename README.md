@@ -39,7 +39,7 @@
 class HarshitSingh:
     def __init__(self):
         self.name         = "Harshit Singh"
-        self.college      = "B.Tech CSE @ NIT Calicut (Final Year, Batch 2027)"
+        self.college      = "B.Tech  @ NIT Calicut (Final Year, Batch 2027)"
         self.location     = "Varanasi, Uttar Pradesh 🇮🇳"
         self.focus        = ["GenAI Systems", "Agentic AI", "LLM Apps", "Backend Engineering"]
         self.learning     = "C++ → Java → OOPs → MongoDB → Microservices → Backend → GenAI"
@@ -74,7 +74,7 @@ class HarshitSingh:
 | Agentic AI systems with web automation | Systems-level thinking from DSA roots | Real OSS PRs merged in production codebases |
 | RAG pipelines + Vector DB integrations | Product-minded engineer | FOSSASIA + GSSoC'26 — international contributor |
 | Backend APIs & scalable data systems | Clean, modular, production-ready code | Marketing + tech combo = rare skill |
-| Django/Python + Vue.js full stack | Test-driven, reviewer-approved code | Led 1000+ person fest — execution at scale |
+| Django/Python + Vue.js full stack | Test-driven, reviewer-approved code | Led 100000+ person fest — execution at scale |
 
 </div>
 
@@ -328,7 +328,7 @@ Contributed to FOSSASIA's **eventyay** platform as a Backend Developer under GSS
 | 🎯 Leadership | 📣 Marketing | ⚡ Execution |
 |:---|:---|:---|
 | Led **Tathva & Ragam** — NIT Calicut's Annual Fests | Marketing Strategy & Brand Positioning | High-pressure, deadline-driven delivery |
-| Team Coordination across 100s of members | Event Planning & Sponsorship Management | Result-oriented, strong follow-through |
+| Team Coordination across 1000s of Heads and Coordinators | Event Planning & Sponsorship Management | Result-oriented, strong follow-through |
 | Cross-functional Communication | Content & Outreach Campaigns | Built for scale, executed with precision |
 
 </div>
