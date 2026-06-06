@@ -264,8 +264,6 @@ Contributed to FOSSASIA's **eventyay** platform as a Backend Developer under GSS
 
 <div align="center">
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Harshit-0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=A,B,C,SECRET" />
 
 <br/><br/>
 
