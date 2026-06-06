@@ -25,9 +25,6 @@
 <a href="https://github.com/Harshit-0018">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://leetcode.com/og_07/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
 
 </div>
 
@@ -214,7 +211,6 @@ class HarshitSingh:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harshit-0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=A,B,C,SECRET" />
 
 <br/><br/>
 
@@ -256,9 +252,6 @@ class HarshitSingh:
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/og_07/">
-  <img src="https://img.shields.io/badge/LeetCode_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
 <br/><br/>
 
