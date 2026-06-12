@@ -40,7 +40,7 @@ class HarshitSingh:
         self.location     = "Varanasi, Uttar Pradesh 🇮🇳"
         self.focus        = ["GenAI Systems", "Agentic AI", "LLM Apps", "Backend Engineering"]
         self.open_source  = ["GSSoC'26 Contributor", "FOSSASIA Backend Developer"]
-        self.competitive  = "LeetCode Guardian | Rating 2270 | Top 0.63% Globally"
+        self.competitive  = "LeetCode Guardian | Rating 2314 | Top 0.5% Globally"
         self.experience   = ["FOSSASIA", "GSSoC'26", "BHEL Intern", "Tathva Senior Tech Lead"]
         self.motto        = "Building systems that combine AI, engineering & real-world utility 🚀"
 
