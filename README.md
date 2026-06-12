@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Harshit-0018">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+GenAI+%26+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+LangChain+%7C+Vector+DBs;Open+Source+Contributor+%7C+GSSoC%2726+%7C+FOSSASIA;LeetCode+Guardian+%7C+Top+0.63%25+Globally;B.Tech+%40+NIT+Calicut" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+GenAI+%26+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+LangChain+%7C+Vector+DBs;Open+Source+Contributor+%7C+GSSoC%2726+%7C+FOSSASIA;LeetCode+Guardian+%7C+Top+0.5%25+Globally;B.Tech+%40+NIT+Calicut" alt="Typing SVG" />
 </a>
 
 <br/><br/>
